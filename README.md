@@ -1,2 +1,2 @@
 # rainyoutube
-cpe4235 homework make a website same as youtube.com
+homework for CPE4235 Mr.Thanthathon Buagird
